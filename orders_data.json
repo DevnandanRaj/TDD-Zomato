@@ -1,0 +1,41 @@
+[
+    {
+        "order_id": 1,
+        "customer_name": "Customer2",
+        "items": [
+            {
+                "dish_id": 2,
+                "name": "Test Dish",
+                "price": 10.99
+            }
+        ],
+        "status": "preparing",
+        "total_amount": 10.99
+    },
+    {
+        "order_id": 2,
+        "customer_name": "Test Customer",
+        "items": [
+            {
+                "dish_id": 2,
+                "name": "Test Dish",
+                "price": 10.99
+            }
+        ],
+        "status": "received",
+        "total_amount": 10.99
+    },
+    {
+        "order_id": 3,
+        "customer_name": "Test Customer",
+        "items": [
+            {
+                "dish_id": 2,
+                "name": "Test Dish",
+                "price": 10.99
+            }
+        ],
+        "status": "received",
+        "total_amount": 10.99
+    }
+]
